@@ -1,0 +1,13 @@
+C:\Users\burak\source\repos\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\netcoreapp3.1\FactoryDesignPattern.exe
+C:\Users\burak\source\repos\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\netcoreapp3.1\FactoryDesignPattern.deps.json
+C:\Users\burak\source\repos\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\netcoreapp3.1\FactoryDesignPattern.runtimeconfig.json
+C:\Users\burak\source\repos\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\netcoreapp3.1\FactoryDesignPattern.runtimeconfig.dev.json
+C:\Users\burak\source\repos\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\netcoreapp3.1\FactoryDesignPattern.dll
+C:\Users\burak\source\repos\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\netcoreapp3.1\FactoryDesignPattern.pdb
+C:\Users\burak\source\repos\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\netcoreapp3.1\FactoryDesignPattern.csprojAssemblyReference.cache
+C:\Users\burak\source\repos\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\netcoreapp3.1\FactoryDesignPattern.AssemblyInfoInputs.cache
+C:\Users\burak\source\repos\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\netcoreapp3.1\FactoryDesignPattern.AssemblyInfo.cs
+C:\Users\burak\source\repos\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\netcoreapp3.1\FactoryDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\netcoreapp3.1\FactoryDesignPattern.dll
+C:\Users\burak\source\repos\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\netcoreapp3.1\FactoryDesignPattern.pdb
+C:\Users\burak\source\repos\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\netcoreapp3.1\FactoryDesignPattern.genruntimeconfig.cache
