@@ -1,0 +1,13 @@
+C:\Users\burak\source\repos\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\netcoreapp3.1\SingletonDesignPattern.exe
+C:\Users\burak\source\repos\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\netcoreapp3.1\SingletonDesignPattern.deps.json
+C:\Users\burak\source\repos\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\netcoreapp3.1\SingletonDesignPattern.runtimeconfig.json
+C:\Users\burak\source\repos\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\netcoreapp3.1\SingletonDesignPattern.runtimeconfig.dev.json
+C:\Users\burak\source\repos\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\netcoreapp3.1\SingletonDesignPattern.dll
+C:\Users\burak\source\repos\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\netcoreapp3.1\SingletonDesignPattern.pdb
+C:\Users\burak\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\netcoreapp3.1\SingletonDesignPattern.csprojAssemblyReference.cache
+C:\Users\burak\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\netcoreapp3.1\SingletonDesignPattern.AssemblyInfoInputs.cache
+C:\Users\burak\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\netcoreapp3.1\SingletonDesignPattern.AssemblyInfo.cs
+C:\Users\burak\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\netcoreapp3.1\SingletonDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\netcoreapp3.1\SingletonDesignPattern.dll
+C:\Users\burak\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\netcoreapp3.1\SingletonDesignPattern.pdb
+C:\Users\burak\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\netcoreapp3.1\SingletonDesignPattern.genruntimeconfig.cache
